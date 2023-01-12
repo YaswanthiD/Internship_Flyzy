@@ -1,0 +1,1 @@
+studentName=[input("Enter Student Names : ") for _ in range(5)]
